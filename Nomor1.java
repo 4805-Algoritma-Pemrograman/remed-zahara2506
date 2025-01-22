@@ -24,5 +24,4 @@ public class Nomor1 {
         
         return 20000.0 + (totalKm - 3) * 10000.0;
          }
-    }
 }
